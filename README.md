@@ -1,5 +1,5 @@
 # Luandri
-A Clean Lua Interface to the [Indri Search Engine](http://www.lemurproject.org/indri) for [Torch](http://torch.ch).
+A Clean [LUA](https://www.lua.org/) Interface to the [Indri Search Engine](http://www.lemurproject.org/indri) for [Torch](http://torch.ch).
 
 Citation
 --------
@@ -7,7 +7,7 @@ Coming soon.
 
 Sample code
 --------
-How to query an existing index using runQuery?
+How to query an existing index using runQuery interface?
 
     local luandri = paths.dofile('luandri.lua')
     
