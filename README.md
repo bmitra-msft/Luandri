@@ -5,7 +5,7 @@ Citation
 --------
 If you use Luandri for you research, please cite the following paper.
 
-[Luandri: a Clean Lua Interface to the Indri Search Engine](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/Luandri.pdf)
+[https://arxiv.org/abs/1702.05042](https://arxiv.org/abs/1702.05042)
 
 Sample code
 --------
