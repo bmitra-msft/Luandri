@@ -3,7 +3,9 @@ A Clean [LUA](https://www.lua.org/) Interface to the [Indri Search Engine](http:
 
 Citation
 --------
-Coming soon.
+If you use Luandri for you research, please cite the following paper.
+
+[Luandri: a Clean Lua Interface to the Indri Search Engine](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/Luandri.pdf)
 
 Sample code
 --------
